@@ -1,3 +1,11 @@
+**PowerAudio fork of DPF**
+
+This fork of DPF currently has the following changes:
+
+* Fixed VST 3 directory names on IBM Power.
+
+---
+
 # DPF - DISTRHO Plugin Framework
 [![makefile](https://github.com/DISTRHO/DPF/actions/workflows/makefile.yml/badge.svg)](https://github.com/DISTRHO/DPF/actions/workflows/makefile.yml)
 [![cmake](https://github.com/DISTRHO/DPF/actions/workflows/cmake.yml/badge.svg)](https://github.com/DISTRHO/DPF/actions/workflows/cmake.yml)
